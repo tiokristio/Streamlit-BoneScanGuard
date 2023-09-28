@@ -5,3 +5,4 @@ tensorflow
 keras
 protobuf
 scikit-learn
+streamlit
