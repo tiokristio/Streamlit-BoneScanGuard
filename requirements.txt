@@ -5,3 +5,4 @@ keras
 protobuf
 scikit-learn
 streamlit
+opencv-python
