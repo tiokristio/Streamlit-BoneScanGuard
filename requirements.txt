@@ -1,8 +1,7 @@
+opencv-python
 numpy
 Flask
 tensorflow
 keras
 protobuf
-scikit-learn
-streamlit
-opencv-python-headless
+gunicorn
